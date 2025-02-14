@@ -1,5 +1,6 @@
-# PWEB2
-1 . Criar um programa em JavaScript que pergunta o nome e a idade do usuário e imprime uma mensagem de saudação com base na idade (maior ou menor de idade).
+## Problemas simples com JavaScript
+
+1. Criar um programa em JavaScript que pergunta o nome e a idade do usuário e imprime uma mensagem de saudação com base na idade (maior ou menor de idade).
 
 2. Criar um array de números e escrever uma função que retorne a soma de todos os elementos do array.
 
